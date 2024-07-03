@@ -1,5 +1,8 @@
 Ujian Akhir Semester
 Teknik Informatika - Universitas Pamulang
-Nama  : Navaly Zephyr Rafif
-NIM   : 221011400712
-Kelas : 04TPLE015
+
+Nama  : <b>Navaly Zephyr Rafif</b>
+
+NIM   : <b>221011400712</b>
+
+Kelas : <b>04TPLE015</b>
